@@ -1,0 +1,10 @@
+c:\users\cangül\documents\visual studio 2015\Projects\LenaProjeMustafa.WebUI\Entitiess\bin\Debug\Entitiess.dll.config
+c:\users\cangül\documents\visual studio 2015\Projects\LenaProjeMustafa.WebUI\Entitiess\bin\Debug\Entitiess.dll
+c:\users\cangül\documents\visual studio 2015\Projects\LenaProjeMustafa.WebUI\Entitiess\bin\Debug\Entitiess.pdb
+c:\users\cangül\documents\visual studio 2015\Projects\LenaProjeMustafa.WebUI\Entitiess\bin\Debug\EntityFramework.dll
+c:\users\cangül\documents\visual studio 2015\Projects\LenaProjeMustafa.WebUI\Entitiess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\cangül\documents\visual studio 2015\Projects\LenaProjeMustafa.WebUI\Entitiess\bin\Debug\EntityFramework.xml
+c:\users\cangül\documents\visual studio 2015\Projects\LenaProjeMustafa.WebUI\Entitiess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\cangül\documents\visual studio 2015\Projects\LenaProjeMustafa.WebUI\Entitiess\obj\Debug\Entitiess.csprojResolveAssemblyReference.cache
+c:\users\cangül\documents\visual studio 2015\Projects\LenaProjeMustafa.WebUI\Entitiess\obj\Debug\Entitiess.dll
+c:\users\cangül\documents\visual studio 2015\Projects\LenaProjeMustafa.WebUI\Entitiess\obj\Debug\Entitiess.pdb
